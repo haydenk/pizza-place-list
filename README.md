@@ -2,4 +2,4 @@
 
 ||||
 |---|---|---|
-|Dallas|[CSV](/dallas.csv)||
+|Dallas|[CSV](/dallas.csv)|[Map](/dallas.geojson)|
