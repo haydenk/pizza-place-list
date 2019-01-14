@@ -1,1 +1,5 @@
-# pizza-place-list
+# Pizza Place List
+
+||||
+|---|---|---|
+|Dallas|[CSV](/dallas.csv)||
